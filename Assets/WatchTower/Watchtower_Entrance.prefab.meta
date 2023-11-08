@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3ededba05195444dad9c9fda9da81b2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16779
+  packageName: Fortress Watchtower
+  packageVersion: 1.0
+  assetPath: Assets/WatchTower/Watchtower_Entrance.prefab
+  uploadId: 0
